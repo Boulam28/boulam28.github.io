@@ -1,0 +1,157 @@
+*{
+    margin-left: 12.5px;
+}
+#jap{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#viet{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#nor{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#mal{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#abd{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#menu{
+    background-color: rgb(2, 25, 59);
+    width: inherit;
+    height: 80px;
+    border-radius: 60px;
+    opacity: 90%;
+}
+#menu li{
+     margin: 30px;
+    display: inline-block;
+    list-style: none;
+}
+#menu li:hover{
+    color:black;
+    cursor: pointer;
+}
+#contenu{
+    height: 820px;
+    width: inherit;
+    background-color: rgba(133, 131, 131, 0.479);
+    color: white;
+    display: block;
+}
+#left{
+    display: inline-block;
+    float: left;
+    height: 100%;
+    width: 25%;
+    padding: auto;
+}
+#right{
+    display: inline-block;
+    float: right;
+    height: 100%;
+    width: 25%;
+    padding: auto;
+}
+#footer{
+    margin: 10px;
+    height: 100px;
+    width: inherit;
+    background-color: rgb(2, 25, 59);
+    color: rgb(240, 231, 231);
+    border-radius: 60px;
+    border-left-color: rgb(2, 25, 59);
+    opacity: 90%;
+    align-items: center;
+}
+pd{
+    height: 160px;
+    width: 100%;
+    margin-top: 600px;
+    align-items: center;
+    display: flex;
+    border-radius: 10px;
+    opacity: 40%;
+    margin-left: 50px;
+}
+#rs{
+    margin-left: 40px;
+}
+ul{
+    margin: 10px;
+    list-style: none;
+}
+#rs li{
+    float: left;
+    display: inline-block;
+    margin: 15px;
+    font-size: 25px;
+}
+#droite{
+    height: 100px;
+    width: 300px;
+    padding: auto;
+    margin-top: 15px;
+    float: right;
+    font: 25px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+#present{
+    width: inherit;
+    color: black;
+}
+#boo{
+    font-size: 30px;
+}
+#baa{
+    font-size: 20px;
+}
+img{
+    margin-top: 0px;
+    width: 80%;
+    border-radius: 10px;
+}
+h1{
+    color: brown;
+    width: inherit;
+    letter-spacing: 2px;
+}
+div{
+    padding: auto;
+}
+h2{
+    color:white;
+    width: inherit;
+    letter-spacing: 2px
+}
+video{
+    width: 100%;
+    border-radius: 10px;
+}
+#center{
+    margin-left: 30px;
+    display: inline-block;
+    padding: auto;
+    width: 650px;
+    height: 800px;
+}
+li>a:hover{
+    color: black;
+}
+#menu li:after{
+    color:white;
+    background-color: black;
+}
